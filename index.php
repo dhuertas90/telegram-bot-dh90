@@ -4,7 +4,6 @@
 	*/
 	
 	require_once("../controllers/TurnosController.php");
-	require_once("../models/ModelTurnos.php");
 
 
 	TurnosController::getInstance()->mensajeBot();
